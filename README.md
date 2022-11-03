@@ -16,8 +16,8 @@ that will:
         ```
 
     - Example System Debug Output in Developer Console:
-        ```(Opportunity-Opportunity (Marketing) Layout, Opportunity-Opportunity (Sales) Layout, Opportunity-Opportunity (Support) Layout)``
-- You may find the specification for Layouts (here)[https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm]
+        ```(Opportunity-Opportunity (Marketing) Layout, Opportunity-Opportunity (Sales) Layout, Opportunity-Opportunity (Support) Layout)```
+- You may find the specification for Layouts [here])https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm)
 
 
 
