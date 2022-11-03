@@ -1,6 +1,6 @@
 # Salesforce Exercise -- Page Layout Retrieval
 
-Please implement the function `getLayoutNamesForObject(String objectName)` available in the LayoutRetrival.cls class
+Please implement the function `getLayoutNamesForObject(String objectName)` available in the LayoutRetrieval.cls class
 that will:
 
 - Leverage the given Metadata API to return all of the possible layout names for a given Salesforce object
